@@ -1,0 +1,31 @@
+.ScreenMateriContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2%;
+}
+
+.MateriContainer {
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+    background: #518E12 !important;
+    padding-bottom: 25px;
+    border: 3px solid black;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.card {
+    background: #B1D745;
+    margin-top: 25px;
+    width: 90%;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.ArrowContainer img {
+    width: 60%;
+}

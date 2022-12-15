@@ -1,0 +1,41 @@
+
+.ScreenContainer {
+    height: 100vh;
+    background: transparent;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.IntroContainer {
+    width: 80%;
+    background: #518E12 ;
+    border-radius: 25px;
+    padding: 25px;
+    margin-top: 10%;
+    font-size: 18px;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.IntroContainer span {
+    text-transform: capitalize;
+}
+
+.ArrowContainer {
+    background: transparent;
+    width: 80%;
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+
+.ArrowContainer img {
+    background: transparent;
+    width: 90%;
+}
+
+.ArrowContainer Link {
+    background: transparent;
+}
+

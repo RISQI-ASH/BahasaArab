@@ -1,0 +1,8 @@
+.bgContainer {
+    width: 100%;
+    background: linear-gradient(180deg, #A0D22E 0%, #FFEFAE 100%);
+    z-index: -999;
+    position: fixed;
+    min-height: 100%;
+}
+

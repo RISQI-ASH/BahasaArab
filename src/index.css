@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: 'Montserrat', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.Link {
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+
+}
+
+.Link img:active {
+  scale: 1.1;
+  
+}
+
+span {
+  background: transparent;
+}
