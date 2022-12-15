@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/BahasaArab/static/css/main.428185b6.css",
+    "main.js": "/BahasaArab/static/js/main.7380ceab.js",
+    "static/media/song.mp3": "/BahasaArab/static/media/song.1517f1c9bf7f50bce83c.mp3",
+    "static/media/Masjid.svg": "/BahasaArab/static/media/Masjid.2154d822f681e5a34b76fcc1fcffbd35.svg",
+    "static/media/Kebun.svg": "/BahasaArab/static/media/Kebun.8a4b6f4c7170c8a073f85ab98edee4ad.svg",
+    "static/media/Perpus.svg": "/BahasaArab/static/media/Perpus.4c1f5adcbea646feb1321a9990ec7ba7.svg",
+    "static/media/Halaman.svg": "/BahasaArab/static/media/Halaman.b6c1b710eb3f31b07fbc8b464da55071.svg",
+    "static/media/Lapangan.svg": "/BahasaArab/static/media/Lapangan.d3dc3d96b79e60883641968e300c9593.svg",
+    "static/media/Kelas.svg": "/BahasaArab/static/media/Kelas.8de7aecc7b921f8b67c78a2eaa55fe71.svg",
+    "static/media/Kantor.svg": "/BahasaArab/static/media/Kantor.4e80eb1a2511c471787cc646c501f19e.svg",
+    "static/media/Wc.svg": "/BahasaArab/static/media/Wc.14943d32957332e7961ac5eaeab2398f.svg",
+    "static/media/Uks.svg": "/BahasaArab/static/media/Uks.f6fe4e81563a567b9dfe82895905d7bc.svg",
+    "static/media/Kantin.svg": "/BahasaArab/static/media/Kantin.0167837dc1beb6c7a151e30c4563bedb.svg",
+    "static/media/Labo.svg": "/BahasaArab/static/media/Labo.b59b48aa4dcf5c5ffa5fd48a32b10970.svg",
+    "static/media/aula.svg": "/BahasaArab/static/media/aula.37057eaefb4df988458eebab3ebb8f1f.svg",
+    "static/media/ArrowLeft.svg": "/BahasaArab/static/media/ArrowLeft.3a76aa725778615bba8c496c441848dc.svg",
+    "static/media/ArrowRight.svg": "/BahasaArab/static/media/ArrowRight.d556b273cc43fcca6da6a89a8df6a43e.svg",
+    "static/media/profil.png": "/BahasaArab/static/media/profil.c95fad6d4ca2df610dd0.png",
+    "static/media/Tittle.png": "/BahasaArab/static/media/Tittle.66e6a9e35f1c3957b96e.png",
+    "static/media/Hero.svg": "/BahasaArab/static/media/Hero.a037cba5a5e779d3560ea6e5d85ae256.svg",
+    "static/media/sfx.svg": "/BahasaArab/static/media/sfx.05fe70924b8151e43dad9c3b743c2be8.svg",
+    "static/media/sfx1.svg": "/BahasaArab/static/media/sfx1.a0775fcc40fb53efcb5cad4d1158a370.svg",
+    "static/media/sfx.mp3": "/BahasaArab/static/media/sfx.e0d5f54546859eb72328.mp3",
+    "static/media/XIcon.svg": "/BahasaArab/static/media/XIcon.bc75e42735044e9d906a70d0648ca5ae.svg",
+    "static/media/plays.svg": "/BahasaArab/static/media/plays.7178d645b2839cbcb796c8d57e239a24.svg",
+    "static/media/Next.svg": "/BahasaArab/static/media/Next.a7b7257fc15f48096ef49a0bf52c236e.svg",
+    "static/media/info.svg": "/BahasaArab/static/media/info.cc62975b7683164eacdd1cd390566a8a.svg",
+    "static/media/homeIcon.svg": "/BahasaArab/static/media/homeIcon.2f6532fb6fe4c0b5a35b85bb98bc63e7.svg",
+    "static/media/music1.svg": "/BahasaArab/static/media/music1.216ce7e05a58137dd19dcfa8f28fda21.svg",
+    "static/media/music.svg": "/BahasaArab/static/media/music.113fb35d9173298e0a2c7b72641fc5b7.svg",
+    "static/media/menuIcon.svg": "/BahasaArab/static/media/menuIcon.41329e6130c7dce08fb5effbd0cba2fc.svg",
+    "index.html": "/BahasaArab/index.html",
+    "main.428185b6.css.map": "/BahasaArab/static/css/main.428185b6.css.map",
+    "main.7380ceab.js.map": "/BahasaArab/static/js/main.7380ceab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.428185b6.css",
+    "static/js/main.7380ceab.js"
+  ]
+}
