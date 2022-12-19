@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BahasaArab/static/css/main.36df10da.css",
-    "main.js": "/BahasaArab/static/js/main.a0c4faf9.js",
+    "main.css": "/BahasaArab/static/css/main.be0efc7c.css",
+    "main.js": "/BahasaArab/static/js/main.1c15d81e.js",
     "static/media/song.mp3": "/BahasaArab/static/media/song.b893fbc34d262420272e.mp3",
     "static/media/Masjid.svg": "/BahasaArab/static/media/Masjid.2154d822f681e5a34b76fcc1fcffbd35.svg",
     "static/media/Kebun.svg": "/BahasaArab/static/media/Kebun.8a4b6f4c7170c8a073f85ab98edee4ad.svg",
@@ -17,8 +17,11 @@
     "static/media/Labo.svg": "/BahasaArab/static/media/Labo.b59b48aa4dcf5c5ffa5fd48a32b10970.svg",
     "static/media/profil.jpg": "/BahasaArab/static/media/profil.2415f2e00113a6266745.jpg",
     "static/media/aula.svg": "/BahasaArab/static/media/aula.37057eaefb4df988458eebab3ebb8f1f.svg",
+    "static/media/iconmateri.png": "/BahasaArab/static/media/iconmateri.b1100ea3852262692c8f.png",
     "static/media/Tittle.png": "/BahasaArab/static/media/Tittle.bf8d42fb0198bde976de.png",
     "static/media/Hero.svg": "/BahasaArab/static/media/Hero.a037cba5a5e779d3560ea6e5d85ae256.svg",
+    "static/media/iconvideo.png": "/BahasaArab/static/media/iconvideo.8f9af79b4bc494a23751.png",
+    "static/media/iconquiz.png": "/BahasaArab/static/media/iconquiz.4f04e0f0fc932b10ec69.png",
     "static/media/arrowLeft.png": "/BahasaArab/static/media/arrowLeft.eefd9ef909476f530566.png",
     "static/media/arrowRight.png": "/BahasaArab/static/media/arrowRight.ceb0836114c0f9b371a2.png",
     "static/media/play.png": "/BahasaArab/static/media/play.06a629f90eaf892c3371.png",
@@ -31,11 +34,11 @@
     "static/media/music1.png": "/BahasaArab/static/media/music1.868ca0304fb2cfe1c0f8.png",
     "static/media/menuIcon.png": "/BahasaArab/static/media/menuIcon.41e9069ab7ff319d4bad.png",
     "index.html": "/BahasaArab/index.html",
-    "main.36df10da.css.map": "/BahasaArab/static/css/main.36df10da.css.map",
-    "main.a0c4faf9.js.map": "/BahasaArab/static/js/main.a0c4faf9.js.map"
+    "main.be0efc7c.css.map": "/BahasaArab/static/css/main.be0efc7c.css.map",
+    "main.1c15d81e.js.map": "/BahasaArab/static/js/main.1c15d81e.js.map"
   },
   "entrypoints": [
-    "static/css/main.36df10da.css",
-    "static/js/main.a0c4faf9.js"
+    "static/css/main.be0efc7c.css",
+    "static/js/main.1c15d81e.js"
   ]
 }
