@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BahasaArab/static/css/main.be0efc7c.css",
-    "main.js": "/BahasaArab/static/js/main.1c15d81e.js",
+    "main.js": "/BahasaArab/static/js/main.f67d0571.js",
     "static/media/song.mp3": "/BahasaArab/static/media/song.b893fbc34d262420272e.mp3",
     "static/media/Masjid.svg": "/BahasaArab/static/media/Masjid.2154d822f681e5a34b76fcc1fcffbd35.svg",
     "static/media/Kebun.svg": "/BahasaArab/static/media/Kebun.8a4b6f4c7170c8a073f85ab98edee4ad.svg",
@@ -35,10 +35,10 @@
     "static/media/menuIcon.png": "/BahasaArab/static/media/menuIcon.41e9069ab7ff319d4bad.png",
     "index.html": "/BahasaArab/index.html",
     "main.be0efc7c.css.map": "/BahasaArab/static/css/main.be0efc7c.css.map",
-    "main.1c15d81e.js.map": "/BahasaArab/static/js/main.1c15d81e.js.map"
+    "main.f67d0571.js.map": "/BahasaArab/static/js/main.f67d0571.js.map"
   },
   "entrypoints": [
     "static/css/main.be0efc7c.css",
-    "static/js/main.1c15d81e.js"
+    "static/js/main.f67d0571.js"
   ]
 }
